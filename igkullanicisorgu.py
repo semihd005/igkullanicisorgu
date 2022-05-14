@@ -1,6 +1,6 @@
 URL = "https://www.instagram.com/"
 
-def verileri_al(kullanici_adi)
+def verileri_al(kullanici_adi):
 son_url = URL + kullanici_adi
 
 request = Request(son_url, headers={'User-Agent':'Mozilla/5.0'})
