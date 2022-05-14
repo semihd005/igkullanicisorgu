@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 URL = "https://www.instagram.com/"
 
 def verileri_al(kullanici_adi)
